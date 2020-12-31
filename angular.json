@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/markdown-splendor/css/splendor.min.css",
               "src/styles.css"
             ],
             "scripts": []
